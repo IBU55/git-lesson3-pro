@@ -1,0 +1,11 @@
+# Screenshots
+screenshots/
+*.png
+*.jpg
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
